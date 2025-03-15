@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage 
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="QuizApp.Views.GameplayView"
+    Title="Gameplay">
+
+    <VerticalStackLayout Padding="20" Spacing="15">
+        <Label Text="Gameplay" 
+               FontAttributes="Bold" 
+               FontSize="20"
+               HorizontalOptions="Center" />
+
+        <!-- Voorbeeld: Een label om de huidige vraag te tonen -->
+        <Label Text="Current Question" />
+
+        <!-- Buttons voor acties (Answer / Take Consequence) -->
+        <Button Text="Answer" 
+                Clicked="OnAnswerClicked" />
+        <Button Text="Take Consequence"
+                Clicked="OnConsequenceClicked" />
+
+        <!-- Navigeren naar next round (optioneel) -->
+        <Button Text="Next Round" 
+                Clicked="OnNextRoundClicked" />
+    </VerticalStackLayout>
+</ContentPage>

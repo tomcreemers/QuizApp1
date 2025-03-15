@@ -24,17 +24,41 @@ build_metadata.AdditionalFiles.ManifestResourceName = QuizApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[/Users/school/QuizApp/QuizApp/AppShell.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = QuizApp.AppShell.xaml
-build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
-build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
-
 [/Users/school/QuizApp/QuizApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = QuizApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/school/QuizApp/QuizApp/MVVM/View/DifficultySelectionview.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizApp.MVVM.View.DifficultySelectionview.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM/View/DifficultySelectionview.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM/View/DifficultySelectionview.xaml
+
+[/Users/school/QuizApp/QuizApp/MVVM/View/GameplayView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizApp.MVVM.View.GameplayView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM/View/GameplayView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM/View/GameplayView.xaml
+
+[/Users/school/QuizApp/QuizApp/MVVM/View/InstructionView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizApp.MVVM.View.InstructionView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM/View/InstructionView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM/View/InstructionView.xaml
+
+[/Users/school/QuizApp/QuizApp/MVVM/View/LoginView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizApp.MVVM.View.LoginView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM/View/LoginView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM/View/LoginView.xaml
+
+[/Users/school/QuizApp/QuizApp/MVVM/View/RegisteredView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizApp.MVVM.View.RegisteredView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM/View/RegisteredView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM/View/RegisteredView.xaml
 
 [/Users/school/QuizApp/QuizApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
